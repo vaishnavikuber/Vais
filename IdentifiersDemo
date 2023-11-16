@@ -1,0 +1,20 @@
+package com.tnsif.dayone;
+
+public class IdentifiersDemo {
+
+	public static void main(String[] args) {
+		//invalid identifiers
+				//int class=13;//error because keyword cannot be your identifier
+				
+				//int num 2=13;//because we used spaces in identifiers
+				
+				//valid identifiers
+				int $number=10;
+				System.out.println("value of the num variable is : "+$number);
+				
+				String studentName="Vaishnavi";//use camel case
+				System.out.println("value is :"+studentName);
+
+	}
+
+}
