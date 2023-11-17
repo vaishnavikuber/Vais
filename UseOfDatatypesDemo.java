@@ -1,4 +1,4 @@
-package com.tnsif.dayone;
+package com.tnsif.daytwo;
 
 public class UseOfDatatypesDemo {
 
